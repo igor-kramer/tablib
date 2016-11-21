@@ -11,7 +11,7 @@ extensions = ('csv',)
 
 
 DEFAULT_ENCODING = 'utf-8'
-DEFAULT_DELIMITER = ','
+DEFAULT_DELIMITER = ';'
 
 
 def export_set(dataset, **kwargs):
